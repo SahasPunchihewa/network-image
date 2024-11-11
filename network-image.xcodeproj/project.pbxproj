@@ -14,6 +14,7 @@
 		718E25F22CCBD08700F42305 /* network_imageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718E25F12CCBD08700F42305 /* network_imageTests.swift */; };
 		718E25FC2CCBD08700F42305 /* network_imageUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718E25FB2CCBD08700F42305 /* network_imageUITests.swift */; };
 		718E25FE2CCBD08700F42305 /* network_imageUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718E25FD2CCBD08700F42305 /* network_imageUITestsLaunchTests.swift */; };
+		718E260B2CCBE18000F42305 /* CatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 718E260A2CCBE18000F42305 /* CatView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		718E25F72CCBD08700F42305 /* network-imageUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "network-imageUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		718E25FB2CCBD08700F42305 /* network_imageUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = network_imageUITests.swift; sourceTree = "<group>"; };
 		718E25FD2CCBD08700F42305 /* network_imageUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = network_imageUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		718E260A2CCBE18000F42305 /* CatView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				718E25E02CCBD08100F42305 /* network_imageApp.swift */,
 				718E25E22CCBD08100F42305 /* ContentView.swift */,
+				718E260A2CCBE18000F42305 /* CatView.swift */,
 				718E25E42CCBD08600F42305 /* Assets.xcassets */,
 				718E25E62CCBD08600F42305 /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				718E25E32CCBD08100F42305 /* ContentView.swift in Sources */,
 				718E25E12CCBD08100F42305 /* network_imageApp.swift in Sources */,
+				718E260B2CCBE18000F42305 /* CatView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
